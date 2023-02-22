@@ -43,7 +43,7 @@ public class GUI_Class extends JFrame
 		ROWS = r;
 		COLUMNS = c;
 		
-		setTitle("Lavirint Generator");
+		setTitle("Maze Generator");
 		setBounds(500,100,100,100);
 		
 		JPanel buttons = new JPanel(new GridLayout(6,1));
