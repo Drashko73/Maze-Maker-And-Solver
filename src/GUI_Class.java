@@ -176,6 +176,8 @@ public class GUI_Class extends JFrame
 			
 			@Override
 			public void actionPerformed(ActionEvent e) {
+				removeElementButton.setText("Remove");
+				removePressed = false;
 				blocksPassed.setText("");
 				pathShowed = 0;
 				engine.initialize();
