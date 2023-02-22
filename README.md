@@ -5,3 +5,5 @@ Instructions on how it works:
 1) Enter a desired number of rows and columns that are in range [8,30] inclusive.
 2) Select two blocks for start and end position in order to see the closest path (if exists).
 3) Edit the maze by clicking on blocks you want to have walls and create a maze.
+
+Use images that are listed in Images or use your own with the same name as the given ones.
